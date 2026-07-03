@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <h2> GitHub Analytics</h2>
   
   
 
