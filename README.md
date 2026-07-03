@@ -32,10 +32,10 @@ I am a B.Tech Computer Science and Engineering student at SRM University AP, spe
 
 - **Research Intern (Machine Learning)** | *SRM University AP* (Jun 2025 – Aug 2025)
   - Developed LSTM and GRU models for predicting next RSU handovers in VANET mobility datasets, achieving 92% prediction accuracy through hyperparameter tuning.
+- **Full Stack Intern** | *Edunet Foundation* (Jun 2025 – Aug 2025)
+  - Developed a MERN-based Tender Management System featuring RESTful APIs, JWT authentication, and role-based access control, optimizing database queries by 28%.
 - **AI & Data Analytics Intern** | *SmartInternz* (Jun 2025 – Oct 2025)
   - Performed exploratory data analysis (EDA) and data validation on 20,000+ hotel guest reviews utilizing NLP techniques. Built interactive dashboards to surface actionable insights.
-- **Full Stack Intern** | *Edunet Foundation* (Jun 2025 – Aug 2025)
-  - Developed a MERN-based Tender Management System featuring RESTful APIs, JWT authentication, and role-based access control.
 
 ---
 
@@ -44,6 +44,7 @@ I am a B.Tech Computer Science and Engineering student at SRM University AP, spe
 - **DataPilot AI – Smart CSV Analyzer:** Developed an AI analytics platform using FastAPI and Groq LLM to automate statistical summaries, trend analysis, and business insight generation from CSV files.
 - **MedFlow – Smart Healthcare Workflow Platform:** Built a comprehensive full-stack healthcare platform (MERN) to streamline symptom analysis, appointment scheduling, and electronic medical records management.
 - **Retail Sales Forecasting System:** Benchmarked forecasting models (ARIMA, SARIMA, Prophet, XGBoost) on 6.4K+ weekly sales records, reducing forecasting error by 72% using XGBoost with engineered features.
+- **Crop Prediction System:** Built an end-to-end ML pipeline using soil nutrients and weather data, providing reliable crop recommendations for data-driven agricultural decisions.
 - **EBook Platform:** Designed and normalized a relational MySQL database (6 tables) with complex multi-table JOINs for efficient metadata and user activity management.
 
 ---
