@@ -3,17 +3,11 @@
 
   <br/><br/>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00599C&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya" alt="Jashwanth Lavudya" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya#gh-dark-mode-only" alt="Jashwanth Lavudya" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00599C&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya#gh-light-mode-only" alt="Jashwanth Lavudya" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast" alt="Typing Roles" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast#gh-dark-mode-only" alt="Typing Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast#gh-light-mode-only" alt="Typing Roles" />
 
   <br/><br/>
 
@@ -45,7 +39,18 @@
   <h2>📊 GitHub Analytics</h2>
   
   <p>
-    <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=default&hide_border=false" alt="Jashwanth's GitHub Streak">
+    <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false#gh-dark-mode-only" alt="Jashwanth's GitHub Stats">
+    <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=default&hide_border=false&include_all_commits=true&count_private=false#gh-light-mode-only" alt="Jashwanth's GitHub Stats">
+  </p>
+
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=dark&hide_border=false#gh-dark-mode-only" alt="Jashwanth's GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=default&hide_border=false#gh-light-mode-only" alt="Jashwanth's GitHub Streak">
+  </p>
+
+  <p>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-dark-mode-only" alt="Top Languages">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-light-mode-only" alt="Top Languages">
   </p>
 </div>
 
