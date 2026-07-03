@@ -38,20 +38,13 @@
 <div align="center">
   <h2>📊 GitHub Analytics</h2>
   
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false#gh-dark-mode-only" alt="Jashwanth's GitHub Stats">
-    <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=default&hide_border=false&include_all_commits=true&count_private=false#gh-light-mode-only" alt="Jashwanth's GitHub Stats">
-  </p>
+  
 
   <p>
-    <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=dark&hide_border=false#gh-dark-mode-only" alt="Jashwanth's GitHub Streak">
     <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=default&hide_border=false#gh-light-mode-only" alt="Jashwanth's GitHub Streak">
   </p>
 
-  <p>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-dark-mode-only" alt="Top Languages">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact#gh-light-mode-only" alt="Top Languages">
-  </p>
+  
 </div>
 
 <br/>
