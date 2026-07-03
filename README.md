@@ -62,11 +62,13 @@
 <br/>
 
 <div align="center">
-  <h2>📈 GitHub Analytics</h2>
+  <h2>📊 GitHub Stats:</h2>
   <br/>
-  <img src="https://metrics.lecoq.io/jashwanth15" alt="Metrics" />
+  <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Jashwanth's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanth15&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Jashwanth's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=dark&hide_border=false" alt="Jashwanth's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
