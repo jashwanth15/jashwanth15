@@ -67,9 +67,7 @@ I am a B.Tech Computer Science and Engineering student at SRM University AP, spe
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashwanth15&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333" alt="Jashwanth's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashwanth15&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Jashwanth's GitHub Streak" />
 </div>
 
 ---
