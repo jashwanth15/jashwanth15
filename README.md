@@ -45,27 +45,15 @@
   <h2>📊 GitHub Analytics</h2>
   
   <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=light&hide_border=false&include_all_commits=true&count_private=false">
-      <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Jashwanth's GitHub Stats">
-    </picture>
+    <img src="https://github-readme-stats.shion.dev/api?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="Jashwanth's GitHub Stats">
   </p>
 
   <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jashwanth15&theme=tokyonight&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jashwanth15&theme=light&hide_border=false">
-      <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=tokyonight&hide_border=false" alt="Jashwanth's GitHub Streak">
-    </picture>
+    <img src="https://streak-stats.demolab.com/?user=jashwanth15&theme=tokyonight&hide_border=false" alt="Jashwanth's GitHub Streak">
   </p>
 
   <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-    </picture>
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jashwanth15&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
   </p>
 </div>
 
