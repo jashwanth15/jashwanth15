@@ -4,10 +4,10 @@
   <br/><br/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya#gh-dark-mode-only" alt="Jashwanth Lavudya" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00599C&center=true&vCenter=true&width=800&height=80&lines=Jashwanth+Lavudya#gh-light-mode-only" alt="Jashwanth Lavudya" />
+  
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast#gh-dark-mode-only" alt="Typing Roles" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0284C7&center=true&vCenter=true&width=600&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full-Stack+Developer;Machine+Learning+Enthusiast#gh-light-mode-only" alt="Typing Roles" />
+ 
 
   <br/><br/>
 
