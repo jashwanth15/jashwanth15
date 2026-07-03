@@ -4,7 +4,11 @@
 
   <p>
     <a href="https://github.com/jashwanth15">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver" alt="Typing SVG" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver">
+        <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver" alt="Typing SVG" />
+      </picture>
     </a>
   </p>
 
