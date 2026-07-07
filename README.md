@@ -75,31 +75,7 @@
 
 ---
 
-## 🚀 Projects
 
-- 🚗 [Vehicle Mobility Prediction using LSTM & GRU](#)
-- 📚 [Library Management System](#)
-- 📄 [AI Resume Matcher](#)
-- 🌾 [Crop Prediction System](#)
-- 📊 [DataPilot AI](#)
-- 🏢 [Tender Management System (MERN)](#)
-
-> Replace the `#` links above with your actual repo URLs.
-
----
-
-## ⚡ Skills
-
-| Category  | Skills                            |
-|-----------|------------------------------------|
-| Languages | C, C++, Python, Java, JavaScript  |
-| Frontend  | HTML, CSS, Bootstrap, React       |
-| Backend   | Node.js, Express.js, FastAPI      |
-| Database  | MongoDB, MySQL                    |
-| AI/ML     | TensorFlow, PyTorch, NumPy, Pandas |
-| Tools     | Git, GitHub, Docker, VS Code       |
-
----
 
 <div align="center">
 
