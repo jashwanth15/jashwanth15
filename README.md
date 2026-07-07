@@ -1,18 +1,36 @@
 <div align="center">
 
-<img src="banner.gif" width="100%" alt="Banner"/>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jashwanth+Lavudya;Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=0969DA&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Jashwanth+Lavudya;Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Learner" />
-</picture>
+<img src="banner.gif" alt="Banner" width="100%" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=jashwanth15&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jashwanth+Lavudya;Computer+Science+Student;Big+Data+Analytics+Specialist;Full+Stack+Developer;Machine+Learning+Enthusiast" />
+
+<br><br>
+
+<p>
+  <a href="https://github.com/jashwanth15">
+    <img src="https://img.shields.io/github/followers/jashwanth15?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=jashwanth15&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/jashwanth-l-228a67291">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/6q3jAuwZ3E/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="mailto:jashwanth_lavudya@srmap.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
 
 </div>
 
@@ -22,115 +40,85 @@
 
 🎓 B.Tech CSE (Big Data Analytics) at **SRM University AP**
 
-💻 Passionate about Full Stack Development and Machine Learning
+💻 Passionate about Full Stack Development & Machine Learning
 
-🌱 Currently learning **Docker, DevOps, System Design & Cloud**
+🌱 Currently learning Docker, DevOps & Cloud Computing
 
-🧩 Solving **Data Structures & Algorithms** on LeetCode
+🧠 Solving Data Structures & Algorithms on LeetCode
 
-🚀 Looking for **Software Engineering Internship Opportunities**
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/jashwanth-l-228a67291">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/6q3jAuwZ3E/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:jashwanth_lavudya@srmap.edu.in">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+🚀 Open to Software Engineering Internship Opportunities
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,react,nodejs,express,fastapi,html,css,bootstrap,mysql,mongodb,pytorch,tensorflow,git,github,docker,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,nodejs,express,fastapi,html,css,bootstrap,mysql,mongodb,tensorflow,pytorch,git,github,docker,vscode&perline=10"/>
 
-</p>
+</div>
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=jashwanth15&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashwanth15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://streak-stats.demolab.com?user=jashwanth15&theme=github-dark-blue&hide_border=true">
-  <img
-    src="https://streak-stats.demolab.com?user=jashwanth15&theme=github-light&hide_border=true">
-</picture>
+<img src="https://streak-stats.demolab.com?user=jashwanth15&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwanth15&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwanth15&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jashwanth15&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jashwanth15&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
-</p>
+</div>
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://leetcode.com/u/6q3jAuwZ3E/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://leetcard.jacoblin.cool/6q3jAuwZ3E?theme=dark&font=Fira+Code&ext=contest"/>
 </a>
 
-<a href="https://github.com/jashwanth15">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 # 🚀 Featured Skills
 
-| Category | Skills |
-|-----------|--------|
-| Languages | C, C++, Python, JavaScript, Java |
+| Category | Technologies |
+|-----------|--------------|
+| Languages | C, C++, Python, Java, JavaScript |
 | Frontend | HTML, CSS, Bootstrap, React |
 | Backend | Node.js, Express.js, FastAPI |
 | Database | MongoDB, MySQL |
@@ -139,11 +127,29 @@
 
 ---
 
-# ✨ Quote
+# 📌 Featured Projects
+
+🚀 Tender Management System (MERN)
+
+📚 Library Management System
+
+🤖 AI Resume Matcher
+
+📊 DataPilot AI
+
+🌾 Crop Prediction System
+
+🚗 Vehicle Mobility Prediction using LSTM & GRU
+
+---
+
+# 💬 Quote
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat."**
+### *"First, solve the problem. Then, write the code."*
+
+— John Johnson
 
 </div>
 
@@ -151,10 +157,10 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-### 🚀 Let's Build Something Amazing Together.
+### If you like my work, consider giving a ⭐ to my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:38BDF8&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:06B6D4&section=footer"/>
 
 </div>
