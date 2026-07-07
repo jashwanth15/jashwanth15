@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&height=80&lines=Jashwanth+Lavudya" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Computer+Science+Undergraduate;Big+Data+Analytics+Specialist;Full+Stack+Developer;Machine+Learning+Enthusiast" />
-
 <br><br>
 
 <a href="https://github.com/jashwanth15">
