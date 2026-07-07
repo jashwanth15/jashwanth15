@@ -49,7 +49,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jashwanth15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Jashwanth's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jashwanth15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Jashwanth's GitHub stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -63,7 +63,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jashwanth15&theme=radical&no-frame=true&margin-w=10" alt="GitHub trophies" />
+</p>
 
 ---
 
