@@ -1,34 +1,29 @@
 <div align="center">
 
-<img src="banner.gif" alt="Banner" width="100%" />
+<img src="banner.gif" width="100%" alt="Banner"/>
 
-<br>
+# 👋 Hi, I'm Jashwanth Lavudya
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Jashwanth+Lavudya;Computer+Science+Student;Big+Data+Analytics+Specialist;Full+Stack+Developer;Machine+Learning+Enthusiast" />
-
-<br><br>
+### Computer Science Undergraduate | Big Data Analytics | Full Stack Developer | Machine Learning Enthusiast
 
 <p>
-  <a href="https://github.com/jashwanth15">
-    <img src="https://img.shields.io/github/followers/jashwanth15?label=Followers&style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/jashwanth15">
+<img src="https://img.shields.io/github/followers/jashwanth15?style=for-the-badge&logo=github&label=Followers">
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=jashwanth15&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=jashwanth15&style=for-the-badge&label=Profile+Views&color=0e75b6">
 
-</p>
+<a href="https://linkedin.com/in/jashwanth-l-228a67291">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-<p>
-  <a href="https://linkedin.com/in/jashwanth-l-228a67291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/6q3jAuwZ3E/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
 
-  <a href="https://leetcode.com/u/6q3jAuwZ3E/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="mailto:jashwanth_lavudya@srmap.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:jashwanth_lavudya@srmap.edu.in">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+</a>
 
 </p>
 
@@ -38,120 +33,102 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech CSE (Big Data Analytics) at **SRM University AP**
-
-💻 Passionate about Full Stack Development & Machine Learning
-
-🌱 Currently learning Docker, DevOps & Cloud Computing
-
-🧠 Solving Data Structures & Algorithms on LeetCode
-
-🚀 Open to Software Engineering Internship Opportunities
+- 🎓 B.Tech CSE (Big Data Analytics), SRM University AP
+- 💻 MERN Stack Developer
+- 🤖 Machine Learning Enthusiast
+- 🐳 Learning Docker & DevOps
+- 🌱 Currently exploring Cloud Computing
+- 🚀 Open to Software Engineering Internship Opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,nodejs,express,fastapi,html,css,bootstrap,mysql,mongodb,tensorflow,pytorch,git,github,docker,vscode&perline=10"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,react,nodejs,express,fastapi,html,css,bootstrap,mongodb,mysql,git,github,docker,vscode,tensorflow,pytorch&perline=10"/>
 
-</div>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jashwanth15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jashwanth15&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jashwanth15&layout=compact&theme=radical&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jashwanth15&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=jashwanth15&theme=radical&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwanth15&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jashwanth15&theme=react-dark"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jashwanth15&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=jashwanth15&theme=radical&no-frame=true&margin-w=10"/>
 
-</div>
+</p>
 
 ---
 
 # 💻 Coding Profiles
 
-<div align="center">
+<p align="center">
 
 <a href="https://leetcode.com/u/6q3jAuwZ3E/">
-<img src="https://leetcard.jacoblin.cool/6q3jAuwZ3E?theme=dark&font=Fira+Code&ext=contest"/>
+
+<img src="https://leetcard.jacoblin.cool/6q3jAuwZ3E?theme=dark&font=Baloo&ext=contest"/>
+
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Skills
+# 🚀 Projects
 
-| Category | Technologies |
-|-----------|--------------|
+- 🚗 Vehicle Mobility Prediction using LSTM & GRU
+- 📚 Library Management System
+- 📄 AI Resume Matcher
+- 🌾 Crop Prediction System
+- 📊 DataPilot AI
+- 🏢 Tender Management System (MERN)
+
+---
+
+# ⚡ Skills
+
+| Category | Skills |
+|-----------|--------|
 | Languages | C, C++, Python, Java, JavaScript |
 | Frontend | HTML, CSS, Bootstrap, React |
 | Backend | Node.js, Express.js, FastAPI |
 | Database | MongoDB, MySQL |
-| AI/ML | TensorFlow, PyTorch, Pandas, NumPy |
+| AI/ML | TensorFlow, PyTorch, NumPy, Pandas |
 | Tools | Git, GitHub, Docker, VS Code |
-
----
-
-# 📌 Featured Projects
-
-🚀 Tender Management System (MERN)
-
-📚 Library Management System
-
-🤖 AI Resume Matcher
-
-📊 DataPilot AI
-
-🌾 Crop Prediction System
-
-🚗 Vehicle Mobility Prediction using LSTM & GRU
-
----
-
-# 💬 Quote
-
-<div align="center">
-
-### *"First, solve the problem. Then, write the code."*
-
-— John Johnson
-
-</div>
 
 ---
 
@@ -159,8 +136,8 @@
 
 ## ⭐ Thanks for visiting my profile!
 
-### If you like my work, consider giving a ⭐ to my repositories.
+### If you like my work, don't forget to ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:4F46E5,100:06B6D4&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=120&section=footer"/>
 
 </div>
